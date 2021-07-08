@@ -1,7 +1,7 @@
 # miniRT
 Validated on 23-03-2021.
 
-This project is an introduction to the beautiful world of Raytracing.
+This project is an introduction to the beautiful world of Ray tracing.
 Once completed it will be able to render simple Computer-Generated-Images.
 
 - With the Makefile you will compile the program called "miniRT"
