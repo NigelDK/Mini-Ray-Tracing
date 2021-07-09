@@ -13,3 +13,5 @@ Once completed it will be able to render simple Computer-Generated-Images.
 - Contains light management (sport brightness, hard shadows, ambient lighting),  resizing of the objects, translation and rotation transformation to objects, lights and cameras.
 - In the secenes folder you will find example scenes you can use.
 - The program is only compatible with linux.
+
+![Alt text](example.bmp?raw=true "Title")
