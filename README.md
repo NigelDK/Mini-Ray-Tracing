@@ -10,7 +10,7 @@ Once completed it will be able to render simple Computer-Generated-Images.
 - If a seconde argument "--save" is specified, the program will save the rendered image in bmp format.
 - With the numpad 1 key you can change the camera viewpoint, if multiple cameras are defined in the .rt file.
 - It can display the following 5 simple geometric objects: plane, sphere, cylinder, square and triangle.
-- Contains light management (sport brightness, hard shadows, ambient lighting),  resizing of the objects, translation and rotation transformation to objects, lights and cameras.
+- Contains light management (spot brightness, hard shadows, ambient lighting),  resizing of the objects, translation and rotation transformation to objects, lights and cameras.
 - In the secenes folder you will find example scenes you can use.
 - The program is only compatible with linux.
 
